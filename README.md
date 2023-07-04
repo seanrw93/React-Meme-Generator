@@ -2,6 +2,8 @@
 
 This repository contains a React application that allows users to generate and download memes. The application fetches meme data from an external API and displays a random meme image. Users can enter custom top and bottom text for the meme and download the generated meme as a PNG file.
 
+Check out the live version [here!](https://react-meme-generator-seanrw93.netlify.app/)
+
 **Please note**: As of the current version, there is a known bug where the downloaded images may be cropped or not fully captured. This limitation affects the functionality of the download feature. 
 
 ## Features:
